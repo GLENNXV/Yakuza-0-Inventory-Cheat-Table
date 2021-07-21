@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Majima Inventory Slot 1"</Description>
+      <DropDownList DisplayValueAsItem="1">140:鲑鱼 Salmon
+138:鳖 Turtle
+134:鳗鱼 Ell
+</DropDownList>
+      <VariableType>4 Bytes</VariableType>
+      <Address>7FF4D42E34D4</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
